@@ -1,0 +1,14 @@
+{
+	"ImportPath": "github.com/rynlbrwn/acat",
+	"GoVersion": "go1.4.2",
+	"Packages": [
+		"."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/mkb218/gosndfile/sndfile",
+			"Comment": "go.weekly.2012-03-04-4-gcd59727",
+			"Rev": "cd597271e81aaef14956ef117a2e3d2de5af5792"
+		}
+	]
+}
